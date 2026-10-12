@@ -31,11 +31,13 @@ Spring Cloud Gateway sert de point d'entrée pour accéder aux services. Le Disc
 La configuration comprend des routes statiques et dynamiques pour acheminer les requêtes vers les services concernés.
 
 Configuration statique
+
 ![Configuration statique](images/5%20-%20conf%20stattique.PNG)
 
 ![Configuration de la Gateway](images/6.PNG)
 
 Configuration dynamique
+
 ![Configuration dynamique](images/7%20-%20conf%20dynamique.PNG)
 
 ### 4. Communication avec OpenFeign
