@@ -11,9 +11,6 @@ Les endpoints des deux services ont été testés.
 
 ![Customer-Service](img.png)
 
-![EBank-Service](images/img_1.png)
-
-![Tests des services](images/img_2.png)
 
 ### 2. Documentation avec Swagger UI
 
