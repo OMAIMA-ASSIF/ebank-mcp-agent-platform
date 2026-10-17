@@ -55,4 +55,5 @@ Lorsque Customer-Service devient indisponible, le Circuit Breaker peut interromp
 
 ![Circuit Breaker en cas de panne](images/9-%20resilience%20en%20panne.PNG)
 
-
+## Partie 2 : Mise en place de l'agent AI
+![img_1.png](img_1.png)
