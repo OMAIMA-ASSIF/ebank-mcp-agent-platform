@@ -74,3 +74,6 @@ Creation d'un serveur discord
 
 Le Bot discord
 ![img_6.png](img_6.png)
+
+Le Bot Telegram
+![img_7.png](img_7.png)
