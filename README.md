@@ -61,3 +61,10 @@ Lorsque Customer-Service devient indisponible, le Circuit Breaker peut interromp
 ### 1. Documentation swagger
 ![img_2.png](img_2.png)
 
+### 2. MCP Tool calling
+
+Avec Customer service
+![img_3.png](img_3.png)
+
+Avec Ebank Service
+![img_4.png](img_4.png)
