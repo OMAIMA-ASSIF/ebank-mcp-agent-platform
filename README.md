@@ -68,3 +68,9 @@ Avec Customer service
 
 Avec Ebank Service
 ![img_4.png](img_4.png)
+
+Creation d'un serveur discord 
+![img_5.png](img_5.png)
+
+Le Bot discord
+![img_6.png](img_6.png)
