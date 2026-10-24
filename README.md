@@ -83,3 +83,19 @@ Le Bot Telegram
 La liste des clients : 
 
 ![img_8.png](img_8.png)
+
+Test de chatbot :
+
+![img_9.png](img_9.png)
+
+![img_10.png](img_10.png)
+
+![img_11.png](img_11.png)
+
+Test de l'historique de conversation
+
+![img_12.png](img_12.png)
+
+Creation d'un nouveau compte
+
+![img_13.png](img_13.png)
