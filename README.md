@@ -56,4 +56,47 @@ Lorsque Customer-Service devient indisponible, le Circuit Breaker peut interromp
 
 ![Circuit Breaker en cas de panne](images/9-%20resilience%20en%20panne.PNG)
 
+## Partie 2 : Mise en place de l'agent AI
+![img_1.png](img_1.png)
 
+### 1. Documentation swagger
+![img_2.png](img_2.png)
+
+### 2. MCP Tool calling
+
+Avec Customer service
+![img_3.png](img_3.png)
+
+Avec Ebank Service
+![img_4.png](img_4.png)
+
+Creation d'un serveur discord 
+![img_5.png](img_5.png)
+
+Le Bot discord
+![img_6.png](img_6.png)
+
+Le Bot Telegram
+![img_7.png](img_7.png)
+
+## Partie 3 : Client Angular
+
+La liste des clients : 
+
+![img_8.png](img_8.png)
+
+Test de chatbot :
+
+![img_9.png](img_9.png)
+
+![img_10.png](img_10.png)
+
+![img_11.png](img_11.png)
+
+Test de l'historique de conversation
+
+![img_12.png](img_12.png)
+
+Creation d'un nouveau compte
+
+![img_13.png](img_13.png)
